@@ -1,0 +1,21 @@
+{
+  "name": "romanify",
+  "version": "0.1.0",
+  "description": "Library for romanization of russian names",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "npx tsc -p src/tsconfig.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cyrillic",
+    "names",
+    "romanization",
+    "typescript"
+  ],
+  "author": "Max Koverdyaev",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.9.2"
+  }
+}
