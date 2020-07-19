@@ -1,6 +1,6 @@
 {
   "name": "@hexarc/romanify-russian-names",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Library for romanization of russian names",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shadeglare/romanify-russian-names.git"
+    "url": "https://github.com/hexarc-software/romanify-russian-names.git"
   },
   "keywords": [
     "cyrillic",
