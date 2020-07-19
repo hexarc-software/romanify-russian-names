@@ -1,1 +1,1 @@
-npx tsc src
+npm run build
