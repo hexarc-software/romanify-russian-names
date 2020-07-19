@@ -1,2 +1,4 @@
 src/
 temp/
+build.sh
+publish.sh
