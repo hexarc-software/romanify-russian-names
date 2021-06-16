@@ -1,10 +1,10 @@
 Romanization of russian names
 ===========
 
-[![Version](http://img.shields.io/npm/v/romanify-russian-names.svg)](https://www.npmjs.org/package/@hexarc/romanify-russian-names)
+[![Version](http://img.shields.io/npm/v/@hexarc/romanify-russian-names.svg)](https://www.npmjs.org/package/@hexarc/romanify-russian-names)
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://badges.mit-license.org)
-[![Downloads](http://img.shields.io/npm/dm/romanify-russian-names.svg)](https://npmjs.org/package/@hexarc/romanify-russian-names)
-[![Downloads](http://img.shields.io/npm/dt/romanify-russian-names.svg)](https://npmjs.org/package/@hexarc/romanify-russian-names)
+[![Downloads](http://img.shields.io/npm/dm/@hexarc/romanify-russian-names.svg)](https://npmjs.org/package/@hexarc/romanify-russian-names)
+[![Downloads](http://img.shields.io/npm/dt/@hexarc/romanify-russian-names.svg)](https://npmjs.org/package/@hexarc/romanify-russian-names)
 
 This library helps with transliterating russian cyrillic names into the latin script.
 
