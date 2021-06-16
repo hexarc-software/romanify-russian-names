@@ -1,6 +1,6 @@
 {
   "name": "@hexarc/romanify-russian-names",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Library for romanization of russian names",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
